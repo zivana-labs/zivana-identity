@@ -34,8 +34,11 @@ repository is where that guarantee is implemented.
 `zivana-identity` is the identity primitive of the Zivana Protocol:
 
 Primitive 1 — Identity    ← this repository
+
 Primitive 2 — Trust Score ← zivana-midnight + zivana-core
+
 Primitive 3 — Covenant    ← zivana-midnight + zivana-core
+
 Primitive 4 — Distribution ← zivana-core + zivana-oracle
 
 Full protocol documentation: [zivana-docs](https://github.com/zivana-labs/zivana-docs)
